@@ -1,1 +1,1 @@
-#This is repository is for my college - Chitkara University 
+This is for my college - Chitkara University 
